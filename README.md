@@ -15,6 +15,7 @@ A real-time voice assistant that chains **OpenAI Whisper** (speech-to-text), **G
 
 ---
 
+
 ## 📋 Requirements
 
 - Python 3.8+
@@ -28,7 +29,7 @@ A real-time voice assistant that chains **OpenAI Whisper** (speech-to-text), **G
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/voice-assistant.git
+git clone https://github.com/dhruvesh7/STT-LLM-TTS-CLOUD
 cd voice-assistant
 ```
 
@@ -47,6 +48,7 @@ pip install openai sounddevice soundfile numpy
 
 ```bash
 export OPENAI_API_KEY="sk-..."
+
 ```
 
 Or create a `.env` file and load it before running.
@@ -137,7 +139,8 @@ Never commit your API key to source control. Use environment variables or a secr
 - [ ] Configurable via CLI arguments
 - [ ] Swap in local models (Whisper.cpp, Ollama, Piper TTS)
 
----
+---<img width="755" height="468" alt="Screenshot 2026-02-26 182519" src="https://github.com/user-attachments/assets/8ae8961b-2f20-400b-93c0-c164a749aadc" />
+
 
 ## 📄 License
 
