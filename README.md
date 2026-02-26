@@ -17,7 +17,6 @@ A real-time voice assistant that chains **OpenAI Whisper** (speech-to-text), **G
 
 ## ✨ STT-LLM-TTS PIPELINE 
 ![WhatsApp Image 2026-02-26 at 11 52 27 PM](https://github.com/user-attachments/assets/3365981d-114b-445e-b2e0-86a0e9edd894)
-![WhatsApp Image 2026-02-26 at 11 52 27 PM](https://github.com/user-attachments/assets/3365981d-114b-445e-b2e0-86a0e9edd894)
 
 
 
